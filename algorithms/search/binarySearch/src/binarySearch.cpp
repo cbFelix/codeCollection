@@ -26,9 +26,9 @@ int binarySearch(int* array, const int arrSize, int target) {
                 if (arr[middleIdx] == target) {
                         return middleIdx;
                 } else if (arr[middleIdx] < target) {
-                        firstIdx = middleIdx++;
+                        firstIdx = middleIdx + 1;
                 } else {
-                        lastIdx = middleIdx--;
+                        lastIdx = middleIdx - 1;
                 }
         }
 

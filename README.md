@@ -1,5 +1,4 @@
 # C++ Code Collection
 
 ## Content
-The content is located at this path:
-`./docs/content.md`
+You can see the full content in the file [`docs/content.md`](docs/content.md)

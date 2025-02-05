@@ -1,7 +1,7 @@
 # Algorithms
-**Path:** `root/algorithms/`
+**Path:** [`root/algorithms/`](../algorithms/)
 ## Search
-**Path:**  `root/algorithms/search/`
+**Path:**  [`root/algorithms/search/`](../algorithms/search/)
 
 **Algorithms:**
 - **Binary search** - Simple binary search.
@@ -9,7 +9,7 @@
 
 
 ## Sort
-**Path:** `root/algorithms/sort/`
+**Path:** [`root/algorithms/sort/`](../algorithms/sort/)
 
 **Algorithms:**
 - **Bubble sort** - Regular bubble sort.

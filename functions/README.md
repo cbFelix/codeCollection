@@ -1,0 +1,1 @@
+Examples of implementations of different functions
